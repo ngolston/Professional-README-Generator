@@ -104,9 +104,6 @@ ${description}
  * [Contributing](#contributing)
  * [Tests](#tests)  
  * [Questions](#questions)
- * [Github](#github)
- * [Email](#email)
-
 
 
 ## Installation
@@ -142,9 +139,9 @@ ${contributing}
 
 ${tests}
 
-! [README File] (assets/screenshot.png)
+![README File](assets/screenshot.png)
 
-[Demo Video!]()
+[Demo Video!](assets/Demo.mp4)
 
 
 ## License
@@ -155,7 +152,7 @@ ${license}
 
 ## Questions
 
-*If you have any questions you can reach me at my https://github.com/${github} or email: ${email}.
+*If you have any questions you can reach me at my Github: https://github.com/${github} or Email: ${email}.
 
 *You can always reach me by messaging me on github or email.
 

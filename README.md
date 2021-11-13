@@ -16,8 +16,6 @@ It generates ReadMe Files quickly.
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
-- [Github](#github)
-- [Email](#email)
 
 ## Installation
 
@@ -43,7 +41,7 @@ _Tests for application and how to run them:_
 
 They can always run the code on their own to make their first ReadMe file!
 
-! [README File] (assets/screenshot.png)
+![README File](assets/screenshot.png)
 
 [Demo Video!](assets/Demo.mp4)
 
@@ -53,6 +51,6 @@ MIT License
 
 ## Questions
 
-\*If you have any questions you can reach me at my https://github.com/ngolston or email: nick2123@gmail.com.
+\*If you have any questions you can reach me at my Github: https://github.com/ngolston or Email: nick2123@gmail.com.
 
 \*You can always reach me by messaging me on github or email.
