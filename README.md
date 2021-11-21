@@ -43,7 +43,7 @@ They can always run the code on their own to make their first ReadMe file!
 
 ![README File](assets/screenshot.png)
 
-[Demo Video!](assets/Demo.mp4)
+[Demo Video!](https://youtu.be/DzVYsVszZZA)
 
 ## License
 
